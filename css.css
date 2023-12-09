@@ -1,0 +1,11 @@
+*{
+        background-image: linear-gradient(rgb (0,0,o, .5 / 50%) , rgb (0,0,0,.5)) url('Biscuits.jpeg');
+        background-size: cover;
+        background-position: center center;
+        width: 300px;
+        opacity: 30% ;
+}
+h1 {
+    font-size: 30px; 
+    font-family: 'Bebas Neue', sans-serif;}
+
